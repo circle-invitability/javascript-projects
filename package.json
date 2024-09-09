@@ -1,0 +1,40 @@
+{
+  "name": "gen-alpha",
+  "version": "0.1.0",
+  "description": "the to go to website for advanced, top and latest technology",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/circle-invitability/javascript-projects.git"
+  },
+  "keywords": [
+    "best",
+    "tech",
+    "latest",
+    "gadget",
+    "latest",
+    "technology",
+    "trending",
+    "technology",
+    "innovative",
+    "technology",
+    "and",
+    "gadgets",
+    "smart",
+    "phone",
+    "pc",
+    "labtop",
+    "ipad",
+    "virtual",
+    "reality"
+  ],
+  "author": "dalfa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/circle-invitability/javascript-projects/issues"
+  },
+  "homepage": "https://github.com/circle-invitability/javascript-projects#readme"
+}
