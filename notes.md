@@ -1,7 +1,3 @@
-https://www.youtube.com/watch?v=FazgJVnrVuI   
+1. finale look<https://www.youtube.com/watch?v=FazgJVnrVuI>   
 tutorial Projects.
-
-
-
-
-<https://www.youtube.com/watch?v=FazgJVnrVuI>
+2. to get the SVG images consult  - <https://undraw.co/>
